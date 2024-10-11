@@ -1,0 +1,4 @@
+- Search how to write a good documentation for a feature
+	- Show the problem
+	- Present a possible solution
+		- Follow the flux of the information and, on each method explicit the parameters used, what that method does and what should it return
