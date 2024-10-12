@@ -1,0 +1,8 @@
+- Watch lectures from [CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+	- [Lecture 1](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/block-v1:HarvardX+CS50+X+type@sequential+block@6dc3b19a2300489e8f680fa787b11bc2) (C)
+	- [Lecture 2](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/block-v1:HarvardX+CS50+X+type@sequential+block@8110174930274b8ca2d38bbc1c152602) (Arrays)
+	- [Lecture 3](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/block-v1:HarvardX+CS50+X+type@sequential+block@70c79506693243c48cdca2729da5de2d) (Algorithms)
+	- [Lecture 4](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/block-v1:HarvardX+CS50+X+type@sequential+block@f0615071b9ca4de6bd16f6c2e0abeedf) (Memory)
+	- [Lecture 5](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/block-v1:HarvardX+CS50+X+type@sequential+block@880a71009738460cb821243c44126ca4) (Data structures)
+- Read the main algorithms from the [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) book
+- Continue to implement the SDL game and use some of the patterns of the book on it.

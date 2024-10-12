@@ -1,3 +1,0 @@
-- Watch lectures from [CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
-- Read the main algorithms from the [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) book
-- Continue to implement the SDL game and use some of the patterns of the book on it.

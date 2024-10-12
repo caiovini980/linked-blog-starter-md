@@ -1,3 +1,5 @@
+## Reference
+
 ## Strings
 
 - Strings are just arrays of characters
