@@ -1,0 +1,7 @@
+- Have multiple versions of my resume based on the engine used
+	- Unity
+	- Roblox
+	- Unreal
+	- Generalist (custom engine)
+- Have my games displayed by engine on my portfolio
+- Add a link to my resumes on my all Links
