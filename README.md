@@ -4,4 +4,5 @@
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
+
 - [Obsidian](https://obsidian.md/)
