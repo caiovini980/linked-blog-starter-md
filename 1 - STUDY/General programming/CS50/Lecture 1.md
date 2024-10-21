@@ -15,6 +15,7 @@
 	- `%f`  -> floats
 	- `%li` -> signed longs
 	- `%lu` -> unsigned longs
+	- `%p` -> show an address
 
 - Always that you're writing a new project, follow the code guidelines pre defined by the team. If you're working alone, is the same principle. 
   

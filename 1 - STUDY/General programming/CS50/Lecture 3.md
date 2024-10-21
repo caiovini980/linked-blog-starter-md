@@ -98,6 +98,7 @@ int main(void)
 - The idea is to divide and conquer, reducing the search area by half time each time, trying to find a target number.
 - To get the middle of the current array, we need to sum the extremes and divide it by 2.
 - When the `start` element and the `end` element crossed each other, it means that the searched value isn't on the array.
+- O (log N)
 
 > The array must be sorted
 
