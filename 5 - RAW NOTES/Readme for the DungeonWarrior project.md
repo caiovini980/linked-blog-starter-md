@@ -16,7 +16,7 @@ This game was originally created to experiment C++ with SDL, but it became more 
 
 ## Installation instructions
 
-> There's only possible to build the project using Visual Studio 2022. If you don't have it installed yet on your machine, you can download it [here](https://visualstudio.microsoft.com/pt-br/downloads/)
+> It's only possible to build the project using Visual Studio 2022. If you don't have it installed yet on your machine, you can download it [here](https://visualstudio.microsoft.com/pt-br/downloads/)
 
 - Clone this repository on your local machine
 - Access the local version of this repo through your file explorer
